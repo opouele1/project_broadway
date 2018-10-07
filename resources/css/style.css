@@ -1,3 +1,24 @@
-p{
-  color: purple;
+h1{
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+nav a {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+  display: block;
+  margin-bottom: 10px;
+
+}
+#header{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+}
+footer{
+  background-color: dimgray;
 }
